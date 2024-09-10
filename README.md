@@ -17,7 +17,7 @@ Working as a Data Analytics Engineer in Colombia <img src="https://upload.wikime
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-    <img src="https://c0.klipartz.com/pngpicture/28/601/gratis-png-ilustracion-del-logotipo-de-sql-base-de-datos-de-microsoft-sql-azure-servidor-de-microsoft-sql-base-de-datos-thumbnail.png" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo DB"  alt="Mongo DB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
