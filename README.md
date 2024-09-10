@@ -29,7 +29,7 @@ Working as a Data Analytics Engineer in Colombia <img src="https://upload.wikime
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensor Flow"  alt="Tensor Flow" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly"  alt="Plotly" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" title="Excel"  alt="Excel" width="40" height="40"/>&nbsp;
-    <img src="https://toppng.com/uploads/preview/google-sheets-logo-11609363206tkmkcmlnld.png" title="Google Sheets"  alt="Google Sheets" width="40" height="40"/>&nbsp;
+    <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_512px.png" title="Google Sheets"  alt="Google Sheets" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo DB"  alt="Mongo DB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter Notebook"  alt="Jupiter Notebook" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
