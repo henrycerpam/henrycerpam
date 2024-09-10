@@ -17,13 +17,13 @@ Working as a Data Analytics Engineer in Colombia <img src="https://upload.wikime
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" title="SQL"  alt="SQL" width="40" height="40"/>&nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" title="Big Query"  alt="Big Query" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" title="Power BI"  alt="Power BI" width="40" height="40"/>&nbsp;
     <img src="https://www.svgrepo.com/show/375454/looker.svg" title="Looker Studio"  alt="Looker Studio" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" title="Excel"  alt="Excel" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter Notebook"  alt="Jupiter Notebook" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter Notebook"  alt="Jupiter Notebook" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/1280px-Salesforce.com_logo.svg.png" title="Salesforce" **alt="Salesforce" width="40" height="40"/>&nbsp;
