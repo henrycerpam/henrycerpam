@@ -6,12 +6,11 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-Working as a Data Analytics Engineer in Colombia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/800px-Flag_of_Colombia.svg.png" width="15">
+Working as a Data Analytics Engineer in Colombia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/800px-Flag_of_Colombia.svg.png" width="20">
 
 - 🔭 Professional Industrial Engineer with experience in data wrangling, statistical analysis, and reporting.
 - 🌱 Expertise in numerical simulation, coupled with proficiency in data visualization tools and LLM developments.
 - ⚡ Passionate in artificial intelligence developments.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
 
 ---
 
