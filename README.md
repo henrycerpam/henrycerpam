@@ -1,6 +1,6 @@
 <h1 align="center">Henry Albert Cerpa Marquez</h1>
 <p align="center"><a href="https://www.linkedin.com/in/henrycerpam"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFzODNtbHdldnNpM3RkYzE0eTVtczduZTJhM3NkYzdnMmNtdnJzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ygfw40tlnPhX87m/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFzODNtbHdldnNpM3RkYzE0eTVtczduZTJhM3NkYzdnMmNtdnJzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Ygfw40tlnPhX87m/giphy.gif"/></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
