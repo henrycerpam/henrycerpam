@@ -1,4 +1,4 @@
-<h1 align="center">Henry Albert Cerpa Marquez</h1>
+<h1 style="text-align: center; margin: 0;">Henry Albert Cerpa Marquez</h1>
 <p align="center"><a href="https://www.linkedin.com/in/henrycerpam"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <p align="center">
     <img src="https://github.com/henrycerpam/data/blob/main/giphy.gif" alt="GIF" style="max-width: 100%; height: auto;">
